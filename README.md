@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @root8Op
 - 👀 I’m interested in programming and ethical hacking
-- 🌱 I’m currently learning html,css and python
+- 🌱 I’m currently learning JavaScript and Liabraries
 - 💞️ I’m looking to collaborate on frontend
 - 📫 How to reach me harshitg97.gupta@gmail.com
 
